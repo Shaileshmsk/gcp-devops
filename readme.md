@@ -1,1 +1,1 @@
-### This is a repo for a new GCP-DevOps-Project from kodekloud.
+### This is a repo for a new GCP-DevOps-Project from kodekloud
